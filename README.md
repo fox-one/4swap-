@@ -19,8 +19,8 @@
 
 ### 提交方式
 
-1. 通过官方 Issues 列表提交 （国银）
-2. 提交涉及安全或隐私问题的 BUG，通过 Email [bug@fox.one](mailto:bug@fox.one) 提交
+1. 通过官方 Issues 列表提交，地址： [https://github.com/fox-one/4swap-reporter/issues/new](https://github.com/fox-one/4swap-reporter/issues/new) ;
+2. 提交涉及安全或隐私问题的 BUG，通过 Email [bug@fox.one](mailto:bug@fox.one) 提交;
 
 ### 问题反馈
 
